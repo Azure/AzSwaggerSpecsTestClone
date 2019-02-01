@@ -1,0 +1,1 @@
+Test1 - check if pipeline invoked
