@@ -875,7 +875,7 @@
       "properties": {
         "code": {
           "description": "Error code.",
-          "type": "string",
+          "type": "integer",
           "readOnly": true
         },
         "message": {
