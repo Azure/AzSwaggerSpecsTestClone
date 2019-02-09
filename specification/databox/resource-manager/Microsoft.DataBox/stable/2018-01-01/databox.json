@@ -917,9 +917,8 @@
           "readOnly": true
         },
         "totalBytesToProcess": {
-          "format": "int64",
           "description": "Total amount of data to be processed by the job.",
-          "type": "integer",
+          "type": "string",
           "readOnly": true
         },
         "filesProcessed": {
