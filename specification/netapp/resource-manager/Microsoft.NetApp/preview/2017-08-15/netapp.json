@@ -3,7 +3,7 @@
   "info": {
     "title": "Microsoft NetApp",
     "description": "Microsoft NetApp Azure Resource Provider specification",
-    "version": "2017-08-15",
+    "version": "2017-08-15-preview",
     "x-ms-code-generation-settings": {
       "name": "AzureNetAppFilesManagementClient"
     }
