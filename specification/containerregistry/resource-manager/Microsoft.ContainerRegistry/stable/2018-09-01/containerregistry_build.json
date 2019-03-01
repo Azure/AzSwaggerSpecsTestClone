@@ -1,7 +1,7 @@
 {
   "swagger": "2.0",
   "info": {
-    "version": "2018-09-01",
+    "version": "2018-09-01-preview",
     "title": "ContainerRegistryManagementClient"
   },
   "host": "management.azure.com",
