@@ -2,7 +2,7 @@
   "swagger": "2.0",
   "info": {
     "version": "2019-01-01-preview",
-    "title": "ConsumptionManagementClient",
+    "title": "ConsumptionManagementClient1",
     "description": "Consumption management client provides access to consumption resources for Azure Enterprise Subscriptions."
   },
   "host": "management.azure.com",
