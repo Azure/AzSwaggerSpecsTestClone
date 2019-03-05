@@ -4500,9 +4500,7 @@
         },
         "maxConcurrency": {
           "description": "The max number of parallel time windows (ready for execution) for which a rerun is triggered.",
-          "type": "integer",
-          "minimum": 1,
-          "maximum": 50
+          "type": "string"
         }
       },
       "required": [
