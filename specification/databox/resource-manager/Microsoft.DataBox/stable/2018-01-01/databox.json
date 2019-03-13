@@ -1,7 +1,7 @@
 {
   "swagger": "2.0",
   "info": {
-    "version": "2018-01-01-previeww",
+    "version": "2018-01-01",
     "title": "DataBoxManagementClient"
   },
   "host": "management.azure.com",
