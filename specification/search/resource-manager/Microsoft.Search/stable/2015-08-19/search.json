@@ -3,7 +3,7 @@
   "info": {
     "title": "SearchManagementClient",
     "description": "Client that can be used to manage Azure Search services and API keys.",
-    "version": "2015-08-19"
+    "version": "2015-08-19-preview"
   },
   "host": "management.azure.com",
   "schemes": [
